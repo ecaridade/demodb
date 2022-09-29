@@ -1,6 +1,6 @@
 {
    "device":{
-      "list":[
+      "device":[
          {
             "id":"T004",
             "serie":[
@@ -13,7 +13,7 @@
       ]
    },
    "operator":{
-      "list":[
+      "operator":[
          {
             "id":101,
             "posto":[
