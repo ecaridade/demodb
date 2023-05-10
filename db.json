@@ -22,5 +22,65 @@
             ]
          }
       ]
-   }
+   },
+   "q1":{
+  "Query": {
+    "Url": "/ZMVPL1/20230515/20230519/Estab/Loca/MT101/MT101/11/11/OF1/OF2/0/90/0/1",
+    "Data1": "20230515",
+    "Data2": "20230519",
+    "Estab": null,
+    "Loca": null,
+    "Seri1": "11",
+    "Seri2": "11",
+    "Of1": null,
+    "Of2": null,
+    "Sec1": 0,
+    "Sec2": 90,
+    "ShOf": true,
+    "Order": 1
+  },
+  "Linhas": [
+    {
+      "Itmref": "000094B",
+      "Itmdes": "Batente Preto Rectang MB/B/PG",
+      "Qtd": 740,
+      "Stock": 12378,
+      "Resto": 11638,
+      "OFS": [
+        {
+          "Num": "OFE10230005573",
+          "Qtd": 60
+        },
+        {
+          "Num": "OFE10230005569",
+          "Qtd": 136
+        },
+        {
+          "Num": "OFE10230005567",
+          "Qtd": 146
+        }
+      ],
+      "Stocks": [
+        {
+          "Rec": true,
+          "Cons": false,
+          "Loc": "FDM010062",
+          "Qtd": 60
+        },
+        {
+          "Rec": false,
+          "Cons": true,
+          "Loc": "FDM020000",
+          "Qtd": 60
+        },
+        {
+          "Rec": false,
+          "Cons": false,
+          "Loc": "FDM020010",
+          "Qtd": 60
+        }
+      ]
+    }
+  ]
+}
 }
