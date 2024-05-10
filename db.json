@@ -12,6 +12,59 @@
          }
       ]
    },
+   "createdoc":[
+      {
+         "1":{
+            "data":null,
+            "date":"2024-05-10T15:32:49.3644494+01:00",
+            "summary":"Result Messages:\r\n\r\n01 : ERRO : Stock inexistente 002012A A FSC01000 UN \r\n",
+            "messages":[
+               
+            ],
+            "statusCode":500,
+            "params":{
+               
+            }
+         }
+      },
+      {
+         "2":{
+            "data":null,
+            "date":"2024-05-10T16:20:34.0343174+01:00",
+            "summary":"Result Messages:\r\n\r\n01 : ERRO : Zona LOCDES : FSC01000 Localiz. não criada sobre o estab.02 : ERRO : Erro carregamento linha detalhe stock!\r\n",
+            "messages":[
+               
+            ],
+            "statusCode":500,
+            "params":{
+               
+            }
+         }
+      },
+      {
+         "3":{
+            "data":{
+               "I_MODIMP":"YSCS",
+               "I_AOWSTA":"NO",
+               "I_EXEC":"REALTIME",
+               "I_RECORDSEP":"£",
+               "I_FILE":"",
+               "O_REQNUM":"0",
+               "O_STATUS":"0",
+               "O_MESSA":""
+            },
+            "date":"2024-05-10T16:21:55.6962768+01:00",
+            "summary":"OK",
+            "messages":[
+               
+            ],
+            "statusCode":200,
+            "params":{
+               
+            }
+         }
+      }
+   ],
    "operator":{
       "operator":[
          {
